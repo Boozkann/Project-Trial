@@ -1,0 +1,19 @@
+{
+  "GC.DOD.TOTL.GD.ZS": "central_govt_debt_gdp",
+  "GC.BAL.CASH.GD.ZS": "cash_surplus_deficit_gdp",
+  "DT.TDS.DPPF.XP.ZS": "debt_service_to_exports",
+  "BN.CAB.XOKA.GD.ZS": "current_account_gdp",
+  "FI.RES.TOTL.MO": "reserves_months_imports",
+  "NE.EXP.GNFS.ZS": "exports_gdp",
+  "NE.IMP.GNFS.ZS": "imports_gdp",
+  "NY.GDP.MKTP.KD.ZG": "gdp_growth",
+  "NY.GDP.PCAP.PP.CD": "gdp_per_capita_ppp_current_int$",
+  "NY.GNP.PCAP.CD": "gni_per_capita_atlas_usd",
+  "FP.CPI.TOTL.ZG": "inflation_cpi",
+  "FR.INR.LEND": "lending_rate",
+  "FR.INR.DPST": "deposit_rate",
+  "FM.LBL.MQMY.GD.ZS": "m2_gdp",
+  "PA.NUS.FCRF": "official_fx_lcu_per_usd",
+  "SL.UEM.TOTL.ZS": "unemployment_rate",
+  "PV.EST": "political_stability_estimate"
+}

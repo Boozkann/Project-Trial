@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.streamlit/
+.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+outputs_*.csv
+latest_metrics.csv
